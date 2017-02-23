@@ -1,1 +1,9 @@
 /* your styles go here */
+@font-face {
+    font-family: nittanyBujo;
+    src: url('nittanybujo4.ttf');
+}
+
+h1,h2,.countdown-label{
+    font-family: nittanyBujo;
+}
